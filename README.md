@@ -6,13 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishkarsh800&label=Profile%20views&color=0e75b6&style=flat" alt="nishkarsh800" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishkarsh800" alt="nishkarsh800" /></a> </p>
 
 - 🔭 I’m currently working on **College App**
 
 - 📫 MAIL ME : **nishkarshsaxena800@gmail.com**
 
-- ⚡ Fun fact **I can make you laugh :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
