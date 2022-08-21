@@ -1,8 +1,7 @@
 <p align = "center">
-  <img width = "500" src="https://user-images.githubusercontent.com/94742536/170532404-cfd0ada3-b9a3-4fea-b269-36e8d364457f.gif" />
-  </p>
-<h1 align="center">Hi 👋, I'm NISHKARSH SAXENA</h1>
-<h3 align="center">A passionate KOTLIN Android Developer :)</h3>
+  <img width = 500 src= "https://user-images.githubusercontent.com/94545831/172013378-c7b31299-902b-451d-a844-6a7ffbb8841c.gif" /> </p>
+<h1 align="center">Hey, Nishkarsh this side !</h1>
+<h3 align="center">Native Android Developer :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishkarsh800&label=Profile%20views&color=0e75b6&style=flat" alt="nishkarsh800" /> </p>
 
