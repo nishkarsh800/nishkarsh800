@@ -1,7 +1,7 @@
 [![@nishkarsh02's Holopin board](https://holopin.me/nishkarsh02)](https://holopin.io/@nishkarsh02)
 
 <h1 align="center">Hey, Nishkarsh this side !</h1>
-<h3 align="center">Native Android Developer :)</h3>
+<h3 align="center">A Passionate Software Developer 🧡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishkarsh800&label=Profile%20views&color=0e75b6&style=flat" alt="nishkarsh800" /> </p>
 
