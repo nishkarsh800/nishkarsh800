@@ -30,9 +30,15 @@
 </p>
 
 <br>
-
+ 
+## OPEN SOURCE CONTRIBUTIONS  
+|S.No.|Open Source Program/Organization |Duration| Contribution Link|Role|Rewards|
+|:------:|:--------:|:-----------------:|:-------:|:--------------------:|:-----:|
+|1.|Girlscript Summer Of Code| Mar 2022- May 2022|[Click Here]()|Contributor|[LINK](https://drive.google.com/file/d/1ploQAH7h_DIqim3deSRLZzPM7bn9Sxma/view?usp=sharing)|
+|2.|Hackclub RAIT|Jul 2022- Aug 2022|[Click Here](https://docs.google.com/document/d/1Vyc-UY7Cs4S8EB4dtpKInSyYzEg-yw9XO8mWJB2aC5g/edit)|Project Admin|[LINK](https://drive.google.com/file/d/1ztWa-V1mXWPDOYxN7Jvv2CzyIWOVY3KP/view?usp=sharing)|
+|3.|Hacktoberfest|Oct 1- Oct 31|[Click Here](https://docs.google.com/document/d/1XyKqapkYRAuvmJYALfb9YvhUUUvGh85fM7I1xMpmtdY/edit)|Contributor|T-Shirt & Stickers|
 <br>
-
+<br>
 
 
 
