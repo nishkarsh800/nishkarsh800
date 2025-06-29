@@ -1,5 +1,3 @@
-[![@nishkarsh02's Holopin board](https://holopin.me/nishkarsh02)](https://holopin.io/@nishkarsh02)
-
 <h1 align="center">Hey, Nishkarsh this side !</h1>
 <h3 align="center">A Passionate Software Developer 🧡</h3>
 
@@ -39,8 +37,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishkarsh800&show_icons=true&locale=en&layout=compact" alt="nishkarsh800" /></p>
 <br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nishkarsh800&show_icons=true&locale=en" alt="nishkarsh800" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishkarsh800&" alt="nishkarsh800" /></p>
 
